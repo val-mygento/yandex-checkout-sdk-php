@@ -1,5 +1,5 @@
 {
-  "name": "yandex-money/yandex-checkout-sdk-php",
+  "name": "val-mygento/yandex-checkout-sdk-php",
   "license": "MIT",
   "version": "1.6.9",
   "require": {
