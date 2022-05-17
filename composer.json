@@ -23,5 +23,11 @@
     "psr-4": {
       "Tests\\YandexCheckout\\": "tests/"
     }
-  }
+  },
+  "repositories": [
+    {
+      "type": "github",
+      "url": "https://github.com/val-mygento/yandex-checkout-sdk-php.git"
+    }
+  ]
 }
