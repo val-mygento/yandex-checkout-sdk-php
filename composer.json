@@ -28,6 +28,10 @@
     {
       "type": "github",
       "url": "https://github.com/val-mygento/yandex-checkout-sdk-php.git"
+    },
+    {
+      "type": "composer",
+      "url": "https://packages.mirasvit.com/"
     }
   ]
 }
